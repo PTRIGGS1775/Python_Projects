@@ -8,6 +8,7 @@ greeting = f"{greet} {name}"
 print(greeting.upper())
 print("\tYour boy is testing the tab\n\tAND the new line in strings.")'''
 
+'''
 #Testing Stripping Methods
 strip_test1 = ' some value '
 strip_test2 = 'somevalue'
@@ -43,3 +44,11 @@ def testing_strip2():
         print(False)
 
 testing_strip2()
+'''
+
+#Numbers
+THIS_IS_A_CONSTANT = 12
+print('This is my favorite constant ' + str(THIS_IS_A_CONSTANT) + '!')
+
+#The Zen of Python
+import this
